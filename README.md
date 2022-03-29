@@ -24,3 +24,8 @@
 
 ### Call to Action Section Responsiveness
 ![Call to Action Section Responsiveness](http://g.recordit.co/1GLBf6QdzV.gif)
+
+### Technology Used
+* HTML5
+* Javascript
+* CSS
